@@ -1,6 +1,6 @@
 # fb-chat-bot
 
-Customizable facebook chat bot.
+Customizable Node.js facebook chat bot.
 
 No API keys required, the bot promts for your email and password when you start it.
 
